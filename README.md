@@ -1,8 +1,17 @@
-Le code peut être exécuté dans google colab.(Avec GPU)
+# Adverserial-attacks-on-NN
+## Author
+- REJAUMONT QUENTIN p1609656
+- BENSLIMANE AHMED AMINE p2212225
+- HAOWEI WANG p1911278
+## Enseignants
+- Thomas Ranvier 
+- Mehdi Hennequin 
+- Haytham Elghazel
+## Environnements 
+* Le code peut être exécuté dans google colab.(Avec GPU)
+* Ou exécutez-la dans votre environnement local de jupyter notebook.
 
-Ou exécutez-la dans votre environnement local de jupyter notebook.
-
-Voici les imports utilisés.
+## Imports
 1. numpy
 2. os
 3. argparse
