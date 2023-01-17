@@ -25,11 +25,11 @@
 9. random
 
 ## Imports(Install with pip)
-`
+```
 pip install numpy
 pip install os-sys
 pip install argparse
 pip install matplotlib
 pip install torch torchvision torchaudio
 pip install requests
-`
+```
