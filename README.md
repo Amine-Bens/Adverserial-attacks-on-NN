@@ -19,7 +19,15 @@
 3. argparse
 4. matplotlib
 5. pickle
-6. torch(GPU with PyTorch)
+6. torch(GPU with PyTorch selon version de CUDA)
 7. torchvision
 8. requests
 9. random
+
+## Imports(Install with pip)
+pip install numpy
+pip install os-sys
+pip install argparse
+pip install matplotlib
+pip install torch torchvision torchaudio
+pip install requests
