@@ -1,12 +1,14 @@
 # Adverserial-attacks-on-NN
 ## Author
-- REJAUMONT QUENTIN p1609656
-- BENSLIMANE AHMED AMINE p2212225
-- HAOWEI WANG p1911278
+- Quentin REJAUMONT p1609656
+- Ahmed Amine BENSLIMANE p2212225
+- Haowei WANG p1911278
+
 ## Enseignants
 - Thomas Ranvier 
 - Mehdi Hennequin 
 - Haytham Elghazel
+
 ## Environnements 
 * Le code peut être exécuté dans google colab.(Avec GPU)
 * Ou exécutez-la dans votre environnement local de jupyter notebook.
